@@ -1,0 +1,24 @@
+.blog-slider {
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+  letter-spacing: 1px;
+  color: #16181b;
+  text-decoration: none;
+  background-color: #f8f9fa;
+}
+
+a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+  letter-spacing: 1px;
+}
+
+a {
+  padding-left: 100p;
+  text-align: center;
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+}
+
